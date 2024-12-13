@@ -211,8 +211,11 @@ net-wireless/crda
 dev-build/bazel
 sci-libs/keras
 sci-libs/tensorflow
+<<<<<<< HEAD
 sci-libs/tensorflow-estimator
 sci-visualization/tensorboard
+=======
+>>>>>>> parent of f57039ebc84c (sci-libs/tensorflow: treeclean)
 
 # Andreas Sturmlechner <asturm@gentoo.org> (2023-12-25)
 # Masked until KF6 is unmasked.
